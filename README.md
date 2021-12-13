@@ -2,7 +2,7 @@
 
 <!-- ![alt](./src/assets/sign-in-background.png) -->
 
-![GoBarber Logo](https://github.com/victorradael/GoBarber-web/blob/master/web_gobarber/src/assets/logoDark.png)
+![GoBarber Logo](https://github.com/victorradael/GoBarber-web/blob/main/src/assets/logoDark.png)
 
 ---
 
