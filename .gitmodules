@@ -1,0 +1,3 @@
+[submodule "GoBarber-api"]
+	path = GoBarber-api
+	url = https://github.com/victorradael/GoBarber-api.git
